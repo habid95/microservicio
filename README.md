@@ -30,7 +30,5 @@ npm run migration:down
 ```bash
 nest start user-service --watch
 nest start task --watch
-
-
 ```
 
